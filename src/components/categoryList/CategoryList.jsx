@@ -98,7 +98,7 @@ export const CategoryList = () => {
             height={32}
             className={styles.image}
           />
-          YouTube
+          Youtube
         </Link>
       </div>
     </div>

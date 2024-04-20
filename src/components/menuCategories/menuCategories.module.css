@@ -1,0 +1,41 @@
+.categoryList {
+  margin-top: 35px;
+  margin-bottom: 60px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.categoryItem {
+  padding: 10px 25px;
+  border-radius: 10px;
+  font-size: 14px;
+}
+
+.categoryItem.style {
+  background-color: #57c4ff31;
+}
+
+.categoryItem.webDev {
+  background-color: #4ee2a531;
+}
+
+.categoryItem.gameDev {
+  background-color: #8535e031;
+}
+
+.categoryItem.objPrinting {
+  background-color: #b2e93331;
+}
+
+.categoryItem.music {
+  background-color: #d6ab3631;
+}
+
+.categoryItem.ai {
+  background-color: #e1e44731;
+}
+
+.categoryItem.youtube {
+  background-color: #fc414131;
+}
