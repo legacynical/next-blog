@@ -48,7 +48,7 @@ const Comments = () => {
             />
             <div className={styles.userInfo}>
               <span className={styles.username}>John Doe</span>
-              <span className={styles.date}> - 4.28.2024</span>
+              <span className={styles.date}>4.28.2024</span>
             </div>
           </div>
           <p className={styles.desc}>
@@ -69,7 +69,7 @@ const Comments = () => {
             />
             <div className={styles.userInfo}>
               <span className={styles.username}>John Doe</span>
-              <span className={styles.date}> - 4.28.2024</span>
+              <span className={styles.date}>4.28.2024</span>
             </div>
           </div>
           <p className={styles.desc}>
@@ -90,7 +90,7 @@ const Comments = () => {
             />
             <div className={styles.userInfo}>
               <span className={styles.username}>John Doe</span>
-              <span className={styles.date}> - 4.28.2024</span>
+              <span className={styles.date}>4.28.2024</span>
             </div>
           </div>
           <p className={styles.desc}>
